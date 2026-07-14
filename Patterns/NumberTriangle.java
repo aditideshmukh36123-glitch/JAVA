@@ -1,4 +1,8 @@
-
+//Output
+ //    1
+ //   2 2
+ //  3 3 3
+ // 4 4 4 4
 
 class NumberTriangle {
     public static void main(String[] args) {
