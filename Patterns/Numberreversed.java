@@ -4,7 +4,7 @@
 // 1 2 3 
 // 1 2 
 // 1
-class Main {
+class Numberreversed {
     public static void main(String[] args) {
         
         int i,j,n=6;
