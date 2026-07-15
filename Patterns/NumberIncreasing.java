@@ -1,5 +1,5 @@
 
-class Main {
+class NumberIncreasing {
     public static void main(String[] args) {
         
         int i,j,n=5;
