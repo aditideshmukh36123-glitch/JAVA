@@ -19,7 +19,6 @@
  //          *
           
 
-=== Code Execution Successful ===
 
 class Main {
     public static void main(String[] args) {
