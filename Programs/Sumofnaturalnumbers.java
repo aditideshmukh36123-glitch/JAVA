@@ -1,5 +1,7 @@
-
-
+// Output:
+// Enter The Number:5
+// Sum is: 15    
+    
 import java.util.Scanner;
 
 class Sumofnaturalnumbers {
