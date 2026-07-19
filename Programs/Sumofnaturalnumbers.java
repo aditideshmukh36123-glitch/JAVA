@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class Main {
+class Sumofnaturalnumbers {
     public static void main(String[] args) {
 
 Scanner scan=new Scanner(System.in);
