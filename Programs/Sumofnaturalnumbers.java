@@ -4,7 +4,6 @@
     
 import java.util.Scanner;
 
-
 class Sumofnaturalnumbers {
     public static void main(String[] args) {
 
