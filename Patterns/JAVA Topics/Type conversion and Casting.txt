@@ -51,3 +51,17 @@ NOTE: byte,short,char are converted into int during expression evalutaion
 ------------------------------------------------------------------------------------------------------
 
 
+int a = 10;
+int b = 3;
+
+System.out.println((double)(a / b));
+
+Output:
+
+3.0
+if you think answer should be 3.333 no beacuse firstly divison is done between teo int and then casting is done
+⚠️ Casting happens after integer division
+
+
+------------------------------------------------------------------------------------------------------
+
