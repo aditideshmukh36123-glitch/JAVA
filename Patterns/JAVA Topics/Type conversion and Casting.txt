@@ -9,6 +9,8 @@ Output: 30
 
 ⚠️ Remember: byte + byte becomes int
 
+byte + byte=int
+short+short=int
 
 byte a = 10;
 byte b = 20;
