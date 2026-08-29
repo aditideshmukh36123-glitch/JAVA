@@ -26,3 +26,28 @@ Correct:
 byte c = (byte)(a + b);
 
 ------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+char c = 'A';
+
+System.out.println(c + 1);
+
+Output: 66
+
+Why? char is promoted to int during arithmetic.
+
+
+NOTE: byte,short,char are converted into int during expression evalutaion
+
+
+
+
+------------------------------------------------------------------------------------------------------
+
+
