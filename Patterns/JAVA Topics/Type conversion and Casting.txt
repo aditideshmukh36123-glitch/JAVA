@@ -62,6 +62,22 @@ Output:
 if you think answer should be 3.333 no beacuse firstly divison is done between teo int and then casting is done
 ⚠️ Casting happens after integer division
 
+NOW SEE THIS EXAMPLE THERE IS DIFFERENCE OF ONLY *(*
+
+int a = 10;
+int b = 3;
+
+System.out.println((double)a / b);
+
+Output:
+
+3.3333333333333335
+
+Here, a becomes double before division.
 
 ------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------
+
 
