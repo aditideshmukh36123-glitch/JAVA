@@ -22,8 +22,7 @@ if(ch>='a' && ch<='z'){
 
 }
 
-
-        /*
+/* Another way to check.....
         
         if(ch>=65 && ch<=90){
 
