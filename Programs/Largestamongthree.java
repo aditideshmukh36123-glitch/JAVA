@@ -29,5 +29,14 @@ if(c>max){
 System.out.println(max);
 
 
+        /*Using math approach
+
+int max=Math.max(c,Math.max(a,b));
+
+
+
+        
+        */
+
     }
 }
