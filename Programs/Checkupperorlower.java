@@ -23,6 +23,20 @@ if(ch>='a' && ch<='z'){
 }
 
 
+        /*
+        
+        if(ch>=65 && ch<=90){
+
+    System.out.println("Upperercase");
+}else{
+        System.out.println("Lowercase");
+
+}
+        
+        
+        */
+
+
 
 
 
