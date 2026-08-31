@@ -7,7 +7,7 @@ class  ProductandSumSubstract {
 
 Scanner in =new Scanner(System.in);
 
-System.out.println("Enter Number: ");
+System.out.print("Enter Number: ");
 int num=in.nextInt();
 
 
@@ -23,7 +23,7 @@ num=num/10;
 
 }
 
-System.out.println(prod-sum);
+System.out.println("Answer is: "+(prod-sum));
 
     }
 }
