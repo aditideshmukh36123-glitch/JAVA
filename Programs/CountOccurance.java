@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 class CountOccurance {
     public static void main(String[] args) {
+        
 /*
 
 //Count the occurance of any number entered by user from the number entered by user
