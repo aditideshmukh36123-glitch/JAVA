@@ -3,7 +3,6 @@ import java.util.Scanner;
 class  FactorsEfficient {
     public static void main(String[] args) {
 
-//Subtract the Product and Sum of Digits of an Integer
 
 Scanner in =new Scanner(System.in);
 
