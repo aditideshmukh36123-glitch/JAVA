@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class  Factors {
+class  LargestUntilZero {
     public static void main(String[] args) {
 
 //Take integer inputs till the user enters 0 and print the largest number from all.
