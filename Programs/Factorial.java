@@ -12,12 +12,10 @@ System.out.print("Enter Number to Find its Factorial: ");
 int fact=in.nextInt();
 int ans=1;
 
-for(int i=1;i<=5;i++){
+for(int i=1;i<=fact;i++){
 ans=ans*i;
 
 }
-
-
 
 System.out.println("Factorial of the Number is: "+ans);
 
