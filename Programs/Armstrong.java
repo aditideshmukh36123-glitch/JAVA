@@ -13,7 +13,6 @@ class Armstrong {
         long digit;
         long arm = 0;
 
-        // Count number of digits
         while (temp > 0) {
             temp = temp / 10;
             count++;
@@ -21,7 +20,6 @@ class Armstrong {
 
         temp = num;
 
-        // Calculate Armstrong value
         while (temp > 0) {
 
             digit = temp % 10;
