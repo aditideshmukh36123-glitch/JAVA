@@ -8,6 +8,7 @@ class Main {
         int n = s.nextInt();
 
         int temp = n;
+        
 
         while (temp > 0) {
 
